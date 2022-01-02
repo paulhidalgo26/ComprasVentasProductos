@@ -1,0 +1,7 @@
+{
+  "name": "proyectoDW",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
